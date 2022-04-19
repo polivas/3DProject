@@ -1,0 +1,6 @@
+﻿
+(chicken_export.fbx)Chicken 3D Model created by Victoria from SketchFab(https://sketchfab.com/3d-models/chicken-726206c716a4490ea9182d24540ea773) and is under the (CC BY-SA 4.0) Lisence(https://creativecommons.org/licenses/by/4.0/)
+(seed.fbx)Seed 3D Model created by maddykrob from SkecthFab(https://sketchfab.com/3d-models/seed-b211428acd6a40e19031334e5949f0e6) and is lisenced under Attribution 4.0 International (CC BY 4.0)
+(shrub_EXPORT.fbx)Low-Poly Shrub 3D Model  created by Victoria from SketchFab (https://sketchfab.com/3d-models/low-poly-shrub-df2a9680dfe7431fa3a6403646737bc4) and is under the (CC BY-SA 4.0) Lisence(https://creativecommons.org/licenses/by/4.0/)
+(grass.png) was created by Lamoot (https://opengameart.org/content/grass-texture) of opengameart.com and is licensed under CC-BY 3.0(https://creativecommons.org/licenses/by/3.0/),
+(sky.png) e\was created by aminowana of OpenGameArt.org (https://opengameart.org/content/free-pixel-art-pack) and released under CC-BY-SA 4.0 (https://creativecommons.org/licenses/by/4.0/)
